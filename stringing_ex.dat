@@ -1,0 +1,13 @@
+param:  F:                     f :=
+ "17 modules per string"      17
+ "18 modules per string"      18;
+
+
+param Pmax := 1030;
+
+param p_r := 5;
+
+
+param: M:                m  :=
+ "2 strings per mppt"    2
+ "3 strings per mppt"    3;

@@ -1,0 +1,44 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmpbkzm9kn9.pyomo
+  Lower bound: 57.0
+  Upper bound: 57.0
+  Number of objectives: 1
+  Number of constraints: 7
+  Number of variables: 7
+  Number of nonzeros: 15
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: -1.0
+  Termination condition: optimal
+  Error rc: 0
+  Time: 0.11845612525939941
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: optimal
+  Message: None
+  Objective:
+    cost:
+      Value: 57
+  Variable:
+    g[18 modules per string,2 strings per mppt]:
+      Value: 27
+    g[18 modules per string,3 strings per mppt]:
+      Value: 1
+    x[18 modules per string]:
+      Value: 57
+  Constraint: No values
